@@ -1,6 +1,6 @@
 {
   "id": null,
-  "title": "Docker Host",
+  "title": "Docker Host Auswertungen",
   "description": "Docker host metrics",
   "tags": [
     "system"
